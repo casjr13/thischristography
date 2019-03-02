@@ -1,0 +1,12 @@
+.app {
+  align-items: center;
+  display: flex;
+  flex-flow: row nowrap;
+  height: 100vh;
+  justify-content: flex-start;
+  width: 100%;
+
+  img {
+    height: 75vh;
+  }
+}
