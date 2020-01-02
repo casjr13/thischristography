@@ -55,21 +55,12 @@ section {
   }
 }
 
-/* Paragraphs */
-p {
-  font-size: 1.2em;
-  line-height: 1.5em;
-}
-
 /* Images */
 img {
   max-width: 100%;
 }
 
-/* Icons */
-[class*="fa-"] {
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  width: 1em;
+/* Flex */
+.flex {
+  flex: 1 0 0px;
 }
